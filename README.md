@@ -1,7 +1,6 @@
 # hris-frontend
-<<<<<<< HEAD
 HRIS Frontend PT Artajasa Pembayaran Elektronis 
-=======
+===============================================
 
 ## Build Setup
 
